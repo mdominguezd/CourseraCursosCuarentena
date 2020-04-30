@@ -1,0 +1,2 @@
+These files are meant for if you skipped the first lab entirely. You still need to download the files from lab one,
+and you should likely read the first part of the lab to note conventions, etc used in the lab, as well as where to store your data
