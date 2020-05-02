@@ -1,2 +1,0 @@
-This package is for those who skipped the first two exercises. No additional data is necessary to complete this exercise.
-Just open Cartography_lab.mxd to get started, and follow the instructions in the PDF.
