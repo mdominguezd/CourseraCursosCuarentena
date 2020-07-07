@@ -1,0 +1,551 @@
+,fecha,autoridad_ambiental,nombre_de_la_estaci_n,latitud,longitud,c_digo_del_departamento,departamento,c_digo_del_municipio,nombre_del_municipio,tipo_de_estaci_n,tiempo_de_exposici_n,variable,unidades,geocoded_column,concentraci_n,tecnolog_a
+0,31/12/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+1,30/12/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+2,29/12/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+3,28/12/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+4,27/12/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+5,26/12/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+6,25/12/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+7,24/12/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+8,23/12/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+9,22/12/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+10,21/12/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+11,20/12/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+12,19/12/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+13,18/12/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+14,17/12/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+15,16/12/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+16,15/12/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+17,14/12/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+18,13/12/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+19,12/12/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+20,11/12/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+21,10/12/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+22,09/12/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+23,08/12/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+24,07/12/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+25,06/12/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+26,05/12/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+27,04/12/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+28,03/12/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+29,02/12/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+30,01/12/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+31,30/11/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+32,29/11/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+33,28/11/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+34,27/11/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+35,26/11/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+36,25/11/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+37,24/11/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+38,23/11/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+39,22/11/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+40,21/11/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+41,20/11/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+42,19/11/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+43,18/11/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+44,17/11/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+45,16/11/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+46,15/11/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+47,14/11/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+48,13/11/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+49,12/11/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+50,11/11/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+51,10/11/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+52,09/11/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+53,08/11/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+54,07/11/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+55,06/11/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+56,05/11/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+57,04/11/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+58,03/11/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+59,02/11/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+60,01/11/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+61,31/10/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+62,30/10/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+63,29/10/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+64,28/10/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+65,27/10/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+66,26/10/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+67,25/10/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+68,24/10/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+69,23/10/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+70,22/10/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+71,21/10/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+72,20/10/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+73,19/10/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+74,18/10/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+75,17/10/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+76,16/10/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+77,15/10/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+78,14/10/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+79,13/10/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+80,12/10/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+81,11/10/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+82,10/10/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+83,09/10/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+84,08/10/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+85,07/10/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+86,06/10/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+87,05/10/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+88,04/10/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+89,03/10/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+90,02/10/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+91,01/10/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+92,30/09/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+93,29/09/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+94,28/09/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+95,27/09/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+96,26/09/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+97,25/09/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+98,24/09/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+99,23/09/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+100,22/09/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+101,21/09/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+102,20/09/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+103,19/09/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+104,18/09/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+105,17/09/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+106,16/09/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+107,15/09/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+108,14/09/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+109,13/09/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+110,12/09/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+111,11/09/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+112,10/09/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+113,09/09/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+114,08/09/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+115,07/09/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+116,06/09/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+117,05/09/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+118,04/09/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+119,03/09/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+120,02/09/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+121,01/09/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+122,31/08/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+123,30/08/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+124,29/08/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+125,28/08/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+126,27/08/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+127,26/08/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+128,25/08/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+129,24/08/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+130,23/08/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+131,22/08/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+132,21/08/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+133,20/08/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+134,19/08/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+135,18/08/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+136,17/08/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+137,16/08/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+138,15/08/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+139,14/08/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+140,13/08/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+141,12/08/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+142,11/08/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+143,10/08/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+144,09/08/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+145,08/08/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+146,07/08/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+147,06/08/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+148,05/08/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+149,04/08/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+150,03/08/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+151,02/08/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+152,01/08/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+153,31/07/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+154,30/07/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+155,29/07/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+156,28/07/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+157,26/05/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+158,25/05/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+159,24/05/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+160,23/05/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+161,22/05/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+162,21/05/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+163,20/05/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+164,19/05/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+165,18/05/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+166,17/05/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+167,16/05/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+168,15/05/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+169,14/05/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+170,13/05/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+171,12/05/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+172,11/05/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+173,10/05/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+174,09/05/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+175,08/05/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+176,07/05/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+177,06/05/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",10.83,
+178,05/05/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",10.96,
+179,04/05/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",14.83,
+180,03/05/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",11.92,
+181,02/05/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",13.13,
+182,01/05/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",10.33,
+183,30/04/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",11.5,
+184,29/04/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",13.12,
+185,28/04/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",14.46,
+186,27/04/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",13.73,
+187,26/04/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",14.54,
+188,25/04/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",14.54,
+189,24/04/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",13.71,
+190,23/04/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",16.79,
+191,22/04/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",8.67,
+192,21/04/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",12.71,
+193,20/04/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",14.46,
+194,19/04/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",10.42,
+195,18/04/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+196,17/04/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+197,16/04/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+198,15/04/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+199,14/04/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+200,13/04/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+201,12/04/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+202,11/04/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+203,10/04/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+204,09/04/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+205,08/04/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+206,07/04/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+207,06/04/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+208,05/04/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+209,04/04/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+210,03/04/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+211,02/04/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+212,01/04/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+213,31/03/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+214,30/03/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+215,29/03/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+216,28/03/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+217,27/03/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+218,26/03/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+219,25/03/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+220,24/03/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+221,23/03/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+222,22/03/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+223,21/03/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+224,20/03/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+225,19/03/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+226,18/03/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+227,17/03/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+228,16/03/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+229,15/03/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+230,14/03/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+231,13/03/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+232,12/03/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+233,11/03/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+234,10/03/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+235,09/03/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+236,08/03/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+237,07/03/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+238,06/03/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+239,05/03/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+240,04/03/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+241,03/03/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+242,02/03/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+243,01/03/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+244,28/02/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+245,27/02/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+246,26/02/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+247,25/02/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+248,24/02/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+249,23/02/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+250,22/02/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+251,21/02/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+252,20/02/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+253,19/02/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+254,18/02/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+255,17/02/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+256,16/02/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+257,15/02/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+258,14/02/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+259,13/02/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+260,12/02/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+261,11/02/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+262,10/02/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+263,09/02/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+264,08/02/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+265,07/02/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+266,06/02/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+267,05/02/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+268,04/02/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+269,03/02/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+270,02/02/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+271,01/02/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+272,31/01/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+273,30/01/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+274,29/01/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+275,28/01/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+276,27/01/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+277,26/01/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+278,25/01/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+279,24/01/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+280,23/01/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+281,22/01/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+282,21/01/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+283,20/01/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+284,19/01/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+285,18/01/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+286,17/01/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+287,16/01/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+288,15/01/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+289,14/01/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+290,13/01/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+291,12/01/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+292,11/01/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+293,10/01/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+294,09/01/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+295,08/01/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+296,07/01/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+297,06/01/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+298,05/01/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+299,04/01/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+300,03/01/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+301,02/01/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+302,01/01/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+303,27/07/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+304,26/07/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+305,25/07/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+306,24/07/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+307,23/07/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+308,22/07/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+309,21/07/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+310,20/07/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+311,19/07/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+312,18/07/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+313,17/07/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+314,16/07/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+315,15/07/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+316,14/07/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+317,13/07/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+318,12/07/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+319,11/07/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+320,10/07/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+321,09/07/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+322,08/07/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+323,07/07/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+324,06/07/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+325,05/07/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+326,04/07/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+327,03/07/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+328,02/07/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+329,01/07/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+330,30/06/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+331,29/06/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+332,28/06/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+333,27/06/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+334,26/06/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+335,25/06/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+336,24/06/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+337,23/06/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+338,22/06/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+339,21/06/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+340,20/06/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+341,19/06/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+342,18/06/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+343,17/06/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+344,16/06/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+345,15/06/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+346,14/06/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+347,13/06/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+348,12/06/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+349,11/06/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+350,10/06/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+351,09/06/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+352,08/06/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+353,07/06/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+354,06/06/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+355,05/06/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+356,04/06/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+357,03/06/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+358,02/06/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+359,01/06/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+360,31/05/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+361,30/05/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+362,29/05/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+363,28/05/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+364,27/05/2018 00:00,CRC,Campanario,2.438055,-76.61305,19,CAUCA,19001,POPAYÁN,Indicativa,24,PM2.5,ugm3,"{'latitude': '2.438055', 'longitude': '-76.61305'}",,
+365,23/08/2013 12:00:00 a. m.,CRC,Caloto,3.034072,-76.408487,19,CAUCA,19142,CALOTO,Indicativa,24,PM2.5,µg/m3,"{'latitude': '3.034072', 'longitude': '-76.408487'}",12.92,Manual
+366,24/08/2013 12:00:00 a. m.,CRC,Caloto,3.034072,-76.408487,19,CAUCA,19142,CALOTO,Indicativa,24,PM2.5,µg/m3,"{'latitude': '3.034072', 'longitude': '-76.408487'}",7.5,Manual
+367,25/08/2013 12:00:00 a. m.,CRC,Caloto,3.034072,-76.408487,19,CAUCA,19142,CALOTO,Indicativa,24,PM2.5,µg/m3,"{'latitude': '3.034072', 'longitude': '-76.408487'}",11.25,Manual
+368,26/08/2013 12:00:00 a. m.,CRC,Caloto,3.034072,-76.408487,19,CAUCA,19142,CALOTO,Indicativa,24,PM2.5,µg/m3,"{'latitude': '3.034072', 'longitude': '-76.408487'}",12.92,Manual
+369,27/08/2013 12:00:00 a. m.,CRC,Caloto,3.034072,-76.408487,19,CAUCA,19142,CALOTO,Indicativa,24,PM2.5,µg/m3,"{'latitude': '3.034072', 'longitude': '-76.408487'}",10,Manual
+370,28/08/2013 12:00:00 a. m.,CRC,Caloto,3.034072,-76.408487,19,CAUCA,19142,CALOTO,Indicativa,24,PM2.5,µg/m3,"{'latitude': '3.034072', 'longitude': '-76.408487'}",11.25,Manual
+371,29/08/2013 12:00:00 a. m.,CRC,Caloto,3.034072,-76.408487,19,CAUCA,19142,CALOTO,Indicativa,24,PM2.5,µg/m3,"{'latitude': '3.034072', 'longitude': '-76.408487'}",18.75,Manual
+372,26/03/2011 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",10.83,Manual
+373,28/03/2011 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",14.58,Manual
+374,30/03/2011 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",15.83,Manual
+375,01/04/2011 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",17.08,Manual
+376,03/04/2011 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",11.67,Manual
+377,05/04/2011 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",11.67,Manual
+378,07/04/2011 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",13.33,Manual
+379,09/04/2011 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",7.92,Manual
+380,11/04/2011 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",6.25,Manual
+381,13/04/2011 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",8.75,Manual
+382,15/04/2011 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",6.25,Manual
+383,17/04/2011 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",8.33,Manual
+384,19/04/2011 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",6.67,Manual
+385,21/04/2011 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",6.67,Manual
+386,23/04/2011 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",7.5,Manual
+387,12/07/2011 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",5.42,Manual
+388,14/07/2011 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",4.17,Manual
+389,16/07/2011 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",7.92,Manual
+390,18/07/2011 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",2.08,Manual
+391,20/07/2011 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",5.83,Manual
+392,22/07/2011 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",15.42,Manual
+393,24/07/2011 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",6.25,Manual
+394,26/07/2011 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",5.42,Manual
+395,11/08/2011 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",2.5,Manual
+396,13/08/2011 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",10.83,Manual
+397,15/08/2011 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",8.33,Manual
+398,17/08/2011 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",14.17,Manual
+399,19/08/2011 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",8.33,Manual
+400,21/08/2011 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",11.25,Manual
+401,23/08/2011 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",11.25,Manual
+402,25/08/2011 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",8.33,Manual
+403,28/10/2011 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",5.83,Manual
+404,30/10/2011 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",5,Manual
+405,01/11/2011 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",17.92,Manual
+406,03/11/2011 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",14.23,Manual
+407,05/11/2011 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",17.92,Manual
+408,07/11/2011 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",8.33,Manual
+409,09/11/2011 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",7.08,Manual
+410,11/11/2011 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",7.08,Manual
+411,13/11/2011 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",9.17,Manual
+412,15/11/2011 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",9.17,Manual
+413,17/11/2011 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",8.75,Manual
+414,19/11/2011 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",6.25,Manual
+415,21/11/2011 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",10.83,Manual
+416,23/11/2011 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",14.58,Manual
+417,25/11/2011 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",15.83,Manual
+418,27/11/2011 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",17.08,Manual
+419,29/11/2011 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",11.67,Manual
+420,01/12/2011 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",11.67,Manual
+421,03/12/2011 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",13.39,Manual
+422,05/12/2011 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",2.9,Manual
+423,07/12/2011 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",7.08,Manual
+424,09/12/2011 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",10,Manual
+425,11/12/2011 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",10.42,Manual
+426,13/12/2011 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",7.08,Manual
+427,15/12/2011 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",3.33,Manual
+428,17/12/2011 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",10.42,Manual
+429,19/12/2011 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",4.17,Manual
+430,21/12/2011 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",11.67,Manual
+431,23/12/2011 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",19.58,Manual
+432,25/12/2011 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",9.58,Manual
+433,27/12/2011 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",6.25,Manual
+434,29/12/2011 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",5.83,Manual
+435,27/09/2013 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",16.25,Manual
+436,28/09/2013 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",17.92,Manual
+437,29/09/2013 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",20,Manual
+438,30/09/2013 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",17.08,Manual
+439,01/10/2013 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",25,Manual
+440,02/10/2013 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",15,Manual
+441,03/10/2013 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",25.83,Manual
+442,17/10/2013 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",14.58,Manual
+443,18/10/2013 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",21.67,Manual
+444,19/10/2013 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",27.92,Manual
+445,20/10/2013 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",12.92,Manual
+446,21/10/2013 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",14.17,Manual
+447,22/10/2013 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",12.08,Manual
+448,23/10/2013 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",20,Manual
+449,24/10/2013 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",14.58,Manual
+450,25/10/2013 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",20.42,Manual
+451,26/10/2013 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",14.58,Manual
+452,27/10/2013 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",16.25,Manual
+453,28/10/2013 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",17.5,Manual
+454,29/10/2013 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",12.5,Manual
+455,30/10/2013 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",10.42,Manual
+456,31/10/2013 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",15.42,Manual
+457,01/11/2016 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",19.16,Manual
+458,02/11/2016 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",18.98,Manual
+459,03/11/2016 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",18.88,Manual
+460,04/11/2016 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",16.14,Manual
+461,05/11/2016 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",16.37,Manual
+462,06/11/2016 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",16.03,Manual
+463,07/11/2016 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",20.08,Manual
+464,08/11/2016 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",20.01,Manual
+465,09/11/2016 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",16.27,Manual
+466,10/11/2016 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",19.52,Manual
+467,11/11/2016 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",18.62,Manual
+468,12/11/2016 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",17.71,Manual
+469,13/11/2016 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",19.5,Manual
+470,14/11/2016 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",15.36,Manual
+471,15/11/2016 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",19.63,Manual
+472,16/11/2016 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",19.56,Manual
+473,17/11/2016 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",18.84,Manual
+474,18/11/2016 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",15.84,Manual
+475,19/11/2016 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",17.94,Manual
+476,20/11/2016 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",19.9,Manual
+477,21/11/2016 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",16.99,Manual
+478,22/11/2016 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",17.7,Manual
+479,23/11/2016 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",20.04,Manual
+480,24/11/2016 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",16.55,Manual
+481,25/11/2016 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",18.47,Manual
+482,26/11/2016 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",19.69,Manual
+483,27/11/2016 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",17.09,Manual
+484,28/11/2016 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",18.75,Manual
+485,29/11/2016 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",15.25,Manual
+486,30/11/2016 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",16.77,Manual
+487,01/12/2016 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",19.68,Manual
+488,02/12/2016 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",20.56,Manual
+489,03/12/2016 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",19.18,Manual
+490,04/12/2016 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",19.76,Manual
+491,05/12/2016 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",15.09,Manual
+492,06/12/2016 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",19.2,Manual
+493,07/04/2017 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",16.98,Manual
+494,08/04/2017 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",12.83,Manual
+495,09/04/2017 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",16.43,Manual
+496,10/04/2017 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",16.95,Manual
+497,11/04/2017 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",15.68,Manual
+498,12/04/2017 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",14.78,Manual
+499,13/04/2017 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",14.78,Manual
+500,14/04/2017 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",13.38,Manual
+501,15/04/2017 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",15.14,Manual
+502,16/04/2017 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",12.06,Manual
+503,17/04/2017 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",14.09,Manual
+504,18/04/2017 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",15.61,Manual
+505,19/04/2017 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",14.56,Manual
+506,20/04/2017 12:00:00 a. m.,CRC,Edificio Edgar Negret,2.445161,-76.605444,19,CAUCA,19001,POPAYÁN,Fija,24,PM2.5,µg/m3,"{'latitude': '2.445161', 'longitude': '-76.605444'}",4.45,Manual
+507,30/08/2013 12:00:00 a. m.,CRC,Guachené,3.133001,-76.392256,19,CAUCA,19300,GUACHENÉ,Indicativa,24,PM2.5,µg/m3,"{'latitude': '3.133001', 'longitude': '-76.392256'}",20.83,Manual
+508,31/08/2013 12:00:00 a. m.,CRC,Guachené,3.133001,-76.392256,19,CAUCA,19300,GUACHENÉ,Indicativa,24,PM2.5,µg/m3,"{'latitude': '3.133001', 'longitude': '-76.392256'}",22.92,Manual
+509,01/09/2013 12:00:00 a. m.,CRC,Guachené,3.133001,-76.392256,19,CAUCA,19300,GUACHENÉ,Indicativa,24,PM2.5,µg/m3,"{'latitude': '3.133001', 'longitude': '-76.392256'}",21.25,Manual
+510,02/09/2013 12:00:00 a. m.,CRC,Guachené,3.133001,-76.392256,19,CAUCA,19300,GUACHENÉ,Indicativa,24,PM2.5,µg/m3,"{'latitude': '3.133001', 'longitude': '-76.392256'}",20.83,Manual
+511,03/09/2013 12:00:00 a. m.,CRC,Guachené,3.133001,-76.392256,19,CAUCA,19300,GUACHENÉ,Indicativa,24,PM2.5,µg/m3,"{'latitude': '3.133001', 'longitude': '-76.392256'}",26.25,Manual
+512,04/09/2013 12:00:00 a. m.,CRC,Guachené,3.133001,-76.392256,19,CAUCA,19300,GUACHENÉ,Indicativa,24,PM2.5,µg/m3,"{'latitude': '3.133001', 'longitude': '-76.392256'}",20,Manual
+513,05/09/2013 12:00:00 a. m.,CRC,Guachené,3.133001,-76.392256,19,CAUCA,19300,GUACHENÉ,Indicativa,24,PM2.5,µg/m3,"{'latitude': '3.133001', 'longitude': '-76.392256'}",20.42,Manual
+514,20/09/2013 12:00:00 a. m.,CRC,Miranda,3.250979,-76.22907,19,CAUCA,19455,MIRANDA,Indicativa,24,PM2.5,µg/m3,"{'latitude': '3.250979', 'longitude': '-76.22907'}",6.67,Manual
+515,21/09/2013 12:00:00 a. m.,CRC,Miranda,3.250979,-76.22907,19,CAUCA,19455,MIRANDA,Indicativa,24,PM2.5,µg/m3,"{'latitude': '3.250979', 'longitude': '-76.22907'}",4.58,Manual
+516,22/09/2013 12:00:00 a. m.,CRC,Miranda,3.250979,-76.22907,19,CAUCA,19455,MIRANDA,Indicativa,24,PM2.5,µg/m3,"{'latitude': '3.250979', 'longitude': '-76.22907'}",3.75,Manual
+517,23/09/2013 12:00:00 a. m.,CRC,Miranda,3.250979,-76.22907,19,CAUCA,19455,MIRANDA,Indicativa,24,PM2.5,µg/m3,"{'latitude': '3.250979', 'longitude': '-76.22907'}",4.58,Manual
+518,24/09/2013 12:00:00 a. m.,CRC,Miranda,3.250979,-76.22907,19,CAUCA,19455,MIRANDA,Indicativa,24,PM2.5,µg/m3,"{'latitude': '3.250979', 'longitude': '-76.22907'}",5,Manual
+519,25/09/2013 12:00:00 a. m.,CRC,Miranda,3.250979,-76.22907,19,CAUCA,19455,MIRANDA,Indicativa,24,PM2.5,µg/m3,"{'latitude': '3.250979', 'longitude': '-76.22907'}",8.33,Manual
+520,26/09/2013 12:00:00 a. m.,CRC,Miranda,3.250979,-76.22907,19,CAUCA,19455,MIRANDA,Indicativa,24,PM2.5,µg/m3,"{'latitude': '3.250979', 'longitude': '-76.22907'}",9.58,Manual
+521,16/08/2013 12:00:00 a. m.,CRC,Santander,3.005131,-76.481559,19,CAUCA,19698,SANTANDER DE QUILICHAO,Indicativa,24,PM2.5,µg/m3,"{'latitude': '3.005131', 'longitude': '-76.481559'}",12.5,Manual
+522,17/08/2013 12:00:00 a. m.,CRC,Santander,3.005131,-76.481559,19,CAUCA,19698,SANTANDER DE QUILICHAO,Indicativa,24,PM2.5,µg/m3,"{'latitude': '3.005131', 'longitude': '-76.481559'}",11.25,Manual
+523,18/08/2013 12:00:00 a. m.,CRC,Santander,3.005131,-76.481559,19,CAUCA,19698,SANTANDER DE QUILICHAO,Indicativa,24,PM2.5,µg/m3,"{'latitude': '3.005131', 'longitude': '-76.481559'}",11.67,Manual
+524,19/08/2013 12:00:00 a. m.,CRC,Santander,3.005131,-76.481559,19,CAUCA,19698,SANTANDER DE QUILICHAO,Indicativa,24,PM2.5,µg/m3,"{'latitude': '3.005131', 'longitude': '-76.481559'}",7.5,Manual
+525,20/08/2013 12:00:00 a. m.,CRC,Santander,3.005131,-76.481559,19,CAUCA,19698,SANTANDER DE QUILICHAO,Indicativa,24,PM2.5,µg/m3,"{'latitude': '3.005131', 'longitude': '-76.481559'}",14.58,Manual
+526,21/08/2013 12:00:00 a. m.,CRC,Santander,3.005131,-76.481559,19,CAUCA,19698,SANTANDER DE QUILICHAO,Indicativa,24,PM2.5,µg/m3,"{'latitude': '3.005131', 'longitude': '-76.481559'}",14.58,Manual
+527,22/08/2013 12:00:00 a. m.,CRC,Santander,3.005131,-76.481559,19,CAUCA,19698,SANTANDER DE QUILICHAO,Indicativa,24,PM2.5,µg/m3,"{'latitude': '3.005131', 'longitude': '-76.481559'}",17.08,Manual
+528,13/05/2017 12:00:00 a. m.,CRC,Santander,3.005131,-76.481559,19,CAUCA,19698,SANTANDER DE QUILICHAO,Indicativa,24,PM2.5,µg/m3,"{'latitude': '3.005131', 'longitude': '-76.481559'}",17.2,Manual
+529,14/05/2017 12:00:00 a. m.,CRC,Santander,3.005131,-76.481559,19,CAUCA,19698,SANTANDER DE QUILICHAO,Indicativa,24,PM2.5,µg/m3,"{'latitude': '3.005131', 'longitude': '-76.481559'}",15.2,Manual
+530,15/05/2017 12:00:00 a. m.,CRC,Santander,3.005131,-76.481559,19,CAUCA,19698,SANTANDER DE QUILICHAO,Indicativa,24,PM2.5,µg/m3,"{'latitude': '3.005131', 'longitude': '-76.481559'}",10.6,Manual
+531,16/05/2017 12:00:00 a. m.,CRC,Santander,3.005131,-76.481559,19,CAUCA,19698,SANTANDER DE QUILICHAO,Indicativa,24,PM2.5,µg/m3,"{'latitude': '3.005131', 'longitude': '-76.481559'}",12.2,Manual
+532,17/05/2017 12:00:00 a. m.,CRC,Santander,3.005131,-76.481559,19,CAUCA,19698,SANTANDER DE QUILICHAO,Indicativa,24,PM2.5,µg/m3,"{'latitude': '3.005131', 'longitude': '-76.481559'}",12.5,Manual
+533,18/05/2017 12:00:00 a. m.,CRC,Santander,3.005131,-76.481559,19,CAUCA,19698,SANTANDER DE QUILICHAO,Indicativa,24,PM2.5,µg/m3,"{'latitude': '3.005131', 'longitude': '-76.481559'}",13.6,Manual
+534,19/05/2017 12:00:00 a. m.,CRC,Santander,3.005131,-76.481559,19,CAUCA,19698,SANTANDER DE QUILICHAO,Indicativa,24,PM2.5,µg/m3,"{'latitude': '3.005131', 'longitude': '-76.481559'}",14.2,Manual
+535,20/05/2017 12:00:00 a. m.,CRC,Santander,3.005131,-76.481559,19,CAUCA,19698,SANTANDER DE QUILICHAO,Indicativa,24,PM2.5,µg/m3,"{'latitude': '3.005131', 'longitude': '-76.481559'}",16.5,Manual
+536,21/05/2017 12:00:00 a. m.,CRC,Santander,3.005131,-76.481559,19,CAUCA,19698,SANTANDER DE QUILICHAO,Indicativa,24,PM2.5,µg/m3,"{'latitude': '3.005131', 'longitude': '-76.481559'}",14.2,Manual
+537,22/05/2017 12:00:00 a. m.,CRC,Santander,3.005131,-76.481559,19,CAUCA,19698,SANTANDER DE QUILICHAO,Indicativa,24,PM2.5,µg/m3,"{'latitude': '3.005131', 'longitude': '-76.481559'}",11.3,Manual
+538,23/05/2017 12:00:00 a. m.,CRC,Santander,3.005131,-76.481559,19,CAUCA,19698,SANTANDER DE QUILICHAO,Indicativa,24,PM2.5,µg/m3,"{'latitude': '3.005131', 'longitude': '-76.481559'}",10.2,Manual
+539,24/05/2017 12:00:00 a. m.,CRC,Santander,3.005131,-76.481559,19,CAUCA,19698,SANTANDER DE QUILICHAO,Indicativa,24,PM2.5,µg/m3,"{'latitude': '3.005131', 'longitude': '-76.481559'}",8.6,Manual
+540,25/05/2017 12:00:00 a. m.,CRC,Santander,3.005131,-76.481559,19,CAUCA,19698,SANTANDER DE QUILICHAO,Indicativa,24,PM2.5,µg/m3,"{'latitude': '3.005131', 'longitude': '-76.481559'}",12.9,Manual
+541,26/05/2017 12:00:00 a. m.,CRC,Santander,3.005131,-76.481559,19,CAUCA,19698,SANTANDER DE QUILICHAO,Indicativa,24,PM2.5,µg/m3,"{'latitude': '3.005131', 'longitude': '-76.481559'}",14.5,Manual
+542,27/05/2017 12:00:00 a. m.,CRC,Santander,3.005131,-76.481559,19,CAUCA,19698,SANTANDER DE QUILICHAO,Indicativa,24,PM2.5,µg/m3,"{'latitude': '3.005131', 'longitude': '-76.481559'}",16.7,Manual
+543,06/09/2013 12:00:00 a. m.,CRC,Villa Rica,3.172729,-76.459048,19,CAUCA,19845,VILLA RICA,Indicativa,24,PM2.5,µg/m3,"{'latitude': '3.172729', 'longitude': '-76.459048'}",22.5,Manual
+544,07/09/2013 12:00:00 a. m.,CRC,Villa Rica,3.172729,-76.459048,19,CAUCA,19845,VILLA RICA,Indicativa,24,PM2.5,µg/m3,"{'latitude': '3.172729', 'longitude': '-76.459048'}",15.83,Manual
+545,08/09/2013 12:00:00 a. m.,CRC,Villa Rica,3.172729,-76.459048,19,CAUCA,19845,VILLA RICA,Indicativa,24,PM2.5,µg/m3,"{'latitude': '3.172729', 'longitude': '-76.459048'}",14.17,Manual
+546,09/09/2013 12:00:00 a. m.,CRC,Villa Rica,3.172729,-76.459048,19,CAUCA,19845,VILLA RICA,Indicativa,24,PM2.5,µg/m3,"{'latitude': '3.172729', 'longitude': '-76.459048'}",12.5,Manual
+547,10/09/2013 12:00:00 a. m.,CRC,Villa Rica,3.172729,-76.459048,19,CAUCA,19845,VILLA RICA,Indicativa,24,PM2.5,µg/m3,"{'latitude': '3.172729', 'longitude': '-76.459048'}",10.42,Manual
+548,11/09/2013 12:00:00 a. m.,CRC,Villa Rica,3.172729,-76.459048,19,CAUCA,19845,VILLA RICA,Indicativa,24,PM2.5,µg/m3,"{'latitude': '3.172729', 'longitude': '-76.459048'}",31.67,Manual
+549,12/09/2013 12:00:00 a. m.,CRC,Villa Rica,3.172729,-76.459048,19,CAUCA,19845,VILLA RICA,Indicativa,24,PM2.5,µg/m3,"{'latitude': '3.172729', 'longitude': '-76.459048'}",27.5,Manual

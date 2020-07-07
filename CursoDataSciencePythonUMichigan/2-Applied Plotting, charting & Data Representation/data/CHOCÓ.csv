@@ -1,0 +1,13 @@
+,fecha,autoridad_ambiental,nombre_de_la_estaci_n,tecnolog_a,latitud,longitud,c_digo_del_departamento,departamento,c_digo_del_municipio,nombre_del_municipio,tipo_de_estaci_n,tiempo_de_exposici_n,variable,unidades,concentraci_n,geocoded_column
+0,25/11/2017 12:00:00 a. m.,CODECHOCÓ,Univ. Tecnológica del Chocó,Manual,5.681111,-76.646111,27,CHOCÓ,27001,QUIBDÓ,Indicativa,24,PM2.5,µg/m3,34.26,"{'latitude': '5.681111', 'longitude': '-76.646111'}"
+1,26/11/2017 12:00:00 a. m.,CODECHOCÓ,Univ. Tecnológica del Chocó,Manual,5.681111,-76.646111,27,CHOCÓ,27001,QUIBDÓ,Indicativa,24,PM2.5,µg/m3,26.22,"{'latitude': '5.681111', 'longitude': '-76.646111'}"
+2,27/11/2017 12:00:00 a. m.,CODECHOCÓ,Univ. Tecnológica del Chocó,Manual,5.681111,-76.646111,27,CHOCÓ,27001,QUIBDÓ,Indicativa,24,PM2.5,µg/m3,27.81,"{'latitude': '5.681111', 'longitude': '-76.646111'}"
+3,28/11/2017 12:00:00 a. m.,CODECHOCÓ,Univ. Tecnológica del Chocó,Manual,5.681111,-76.646111,27,CHOCÓ,27001,QUIBDÓ,Indicativa,24,PM2.5,µg/m3,30.7,"{'latitude': '5.681111', 'longitude': '-76.646111'}"
+4,29/11/2017 12:00:00 a. m.,CODECHOCÓ,Univ. Tecnológica del Chocó,Manual,5.681111,-76.646111,27,CHOCÓ,27001,QUIBDÓ,Indicativa,24,PM2.5,µg/m3,34.11,"{'latitude': '5.681111', 'longitude': '-76.646111'}"
+5,30/11/2017 12:00:00 a. m.,CODECHOCÓ,Univ. Tecnológica del Chocó,Manual,5.681111,-76.646111,27,CHOCÓ,27001,QUIBDÓ,Indicativa,24,PM2.5,µg/m3,31.38,"{'latitude': '5.681111', 'longitude': '-76.646111'}"
+6,01/12/2017 12:00:00 a. m.,CODECHOCÓ,Univ. Tecnológica del Chocó,Manual,5.681111,-76.646111,27,CHOCÓ,27001,QUIBDÓ,Indicativa,24,PM2.5,µg/m3,27.57,"{'latitude': '5.681111', 'longitude': '-76.646111'}"
+7,02/12/2017 12:00:00 a. m.,CODECHOCÓ,Univ. Tecnológica del Chocó,Manual,5.681111,-76.646111,27,CHOCÓ,27001,QUIBDÓ,Indicativa,24,PM2.5,µg/m3,34.1,"{'latitude': '5.681111', 'longitude': '-76.646111'}"
+8,03/12/2017 12:00:00 a. m.,CODECHOCÓ,Univ. Tecnológica del Chocó,Manual,5.681111,-76.646111,27,CHOCÓ,27001,QUIBDÓ,Indicativa,24,PM2.5,µg/m3,26.18,"{'latitude': '5.681111', 'longitude': '-76.646111'}"
+9,04/12/2017 12:00:00 a. m.,CODECHOCÓ,Univ. Tecnológica del Chocó,Manual,5.681111,-76.646111,27,CHOCÓ,27001,QUIBDÓ,Indicativa,24,PM2.5,µg/m3,3.88,"{'latitude': '5.681111', 'longitude': '-76.646111'}"
+10,05/12/2017 12:00:00 a. m.,CODECHOCÓ,Univ. Tecnológica del Chocó,Manual,5.681111,-76.646111,27,CHOCÓ,27001,QUIBDÓ,Indicativa,24,PM2.5,µg/m3,2.62,"{'latitude': '5.681111', 'longitude': '-76.646111'}"
+11,06/12/2017 12:00:00 a. m.,CODECHOCÓ,Univ. Tecnológica del Chocó,Manual,5.681111,-76.646111,27,CHOCÓ,27001,QUIBDÓ,Indicativa,24,PM2.5,µg/m3,13.58,"{'latitude': '5.681111', 'longitude': '-76.646111'}"
